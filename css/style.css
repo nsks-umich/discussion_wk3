@@ -1,0 +1,32 @@
+html {
+    background-color: #f6f6f9;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkblue;
+    margin: 40px;
+}
+
+h1, h2, h3 {
+    font-weight: bold;
+}
+
+img {
+    height: auto;
+    width: 640px;
+    padding: 10px;
+    border: 3px solid lightblue;
+    border-radius: 10px;
+}
+
+
+
+
+/* Style the text
+Change the font
+Make your headers bold
+Change the color
+
+Style your images
+Customize the height and width
+Put a border around your images
+If you have time add other styling
+Validate your pages to ensure accessible styling */
