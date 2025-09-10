@@ -1,1 +1,1 @@
-# discussion_wk3
+# 339 Week 3 in class CSS practice
